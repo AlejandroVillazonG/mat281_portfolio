@@ -11,7 +11,7 @@
 
 ## Portafolio Personal
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlejandroVillazonG/mat281_portfolio_template/master?urlpath=lab)
 
 * __John Titor__ : [My Page](https://www.linkedin.com/in/williamhgates/)
 
